@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Add event listener for form submission with validation
-    document.getElementById('contactForm').addEventListener('submit', function(event) {
+    document.getElementById('contact-form').addEventListener('submit', function(event) {
         event.preventDefault(); // Prevent form from submitting the traditional way
 
         // Form validation
