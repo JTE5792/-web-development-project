@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Toggle content on the Home page
-    document.getElementById('toggleContent').addEventListener('click', function()) {
+    document.getElementById('toggleContent').addEventListener('click', function() {
         var moreInfo = document.getElementById('moreInfo');
         if (moreInfo.style.display === 'none' || moreInfo.style.display === '') {
             moreInfo.style.display = 'block';
