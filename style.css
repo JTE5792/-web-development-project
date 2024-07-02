@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: red;
+    background-color: green;
 }
 
 header {
-    background-color: #333;
+    background-color: yellow;
     color: #fff;
     padding: 1rem;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: black;
     text-decoration: none;
 }
 
